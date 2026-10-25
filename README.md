@@ -13,5 +13,5 @@ LINK GITHUB
 |-----------------|---------|
 | Victoria     | Victoria |
 | erai       | erai |
-| mars   | mars |
+| mars   | https://github.com/I-Wayan-Marsnandra-Satria-Tangkas?tab=repositories |
 | ayna   | ayna |
